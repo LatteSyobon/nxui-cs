@@ -1,0 +1,8 @@
+.dll
+.cache
+.exe
+.suo
+/ConsoleApp1/bin/
+/ConsoleApp1/obj/
+/NXUI-CSharp/bin/
+/NXUI-CSharp/obj/
